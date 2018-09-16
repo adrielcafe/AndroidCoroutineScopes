@@ -1,3 +1,6 @@
+[![version](https://jitpack.io/v/adrielcafe/AndroidCoroutineScopes.svg)](https://jitpack.io/#adrielcafe/AndroidCoroutineScopes)
+[![min api](https://img.shields.io/badge/API-14%2B-brightgreen.svg?style=flat)]() 
+
 # AndroidCoroutineScopes
 
 Starting from [0.26.0 release](https://github.com/Kotlin/kotlinx.coroutines/releases/tag/0.26.0) we should define a scope for new coroutines ([docs](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.experimental/-coroutine-scope/)).
