@@ -1,5 +1,5 @@
 [![version](https://jitpack.io/v/adrielcafe/AndroidCoroutineScopes.svg)](https://jitpack.io/#adrielcafe/AndroidCoroutineScopes)
-[![min api](https://img.shields.io/badge/API-14%2B-brightgreen.svg?style=flat)]() 
+[![min api](https://img.shields.io/badge/API-14%2B-brightgreen.svg?style=flat)]()
 
 # AndroidCoroutineScopes
 
@@ -51,8 +51,8 @@ repositories {
 }
 
 // AppCompat scopes
-implementation 'com.github.adrielcafe.AndroidCoroutineScopes:appcompat:1.0.0'
+implementation 'com.github.adrielcafe.androidcoroutinescopes:appcompat:1.0.0'
 
 // ViewModel scopes
-implementation 'com.github.adrielcafe.AndroidCoroutineScopes:viewmodel:1.0.0'
+implementation 'com.github.adrielcafe.androidcoroutinescopes:viewmodel:1.0.0'
 ```
