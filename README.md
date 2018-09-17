@@ -1,5 +1,6 @@
-[![version](https://jitpack.io/v/adrielcafe/AndroidCoroutineScopes.svg)](https://jitpack.io/#adrielcafe/AndroidCoroutineScopes)
-[![min api](https://img.shields.io/badge/API-14%2B-brightgreen.svg?style=flat)]()
+[![Version](https://jitpack.io/v/adrielcafe/AndroidCoroutineScopes.svg)](https://jitpack.io/#adrielcafe/AndroidCoroutineScopes)
+[![Min API](https://img.shields.io/badge/API-14%2B-brightgreen.svg?style=flat)]()
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-AndroidCoroutineScopes-green.svg?style=flat )]( https://android-arsenal.com/details/1/7139 )
 
 # AndroidCoroutineScopes
 
