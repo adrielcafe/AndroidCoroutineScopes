@@ -52,8 +52,8 @@ repositories {
 }
 
 // AppCompat scopes
-implementation 'com.github.adrielcafe.androidcoroutinescopes:appcompat:1.0.0'
+implementation 'com.github.adrielcafe.androidcoroutinescopes:appcompat:1.0.1'
 
 // ViewModel scopes
-implementation 'com.github.adrielcafe.androidcoroutinescopes:viewmodel:1.0.0'
+implementation 'com.github.adrielcafe.androidcoroutinescopes:viewmodel:1.0.1'
 ```
