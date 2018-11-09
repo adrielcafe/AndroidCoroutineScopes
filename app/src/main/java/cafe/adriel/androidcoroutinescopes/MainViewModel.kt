@@ -2,9 +2,9 @@ package cafe.adriel.androidcoroutinescopes
 
 import android.util.Log
 import cafe.adriel.androidcoroutinescopes.viewmodel.CoroutineScopedViewModel
-import kotlinx.coroutines.experimental.Dispatchers
-import kotlinx.coroutines.experimental.launch
-import kotlinx.coroutines.experimental.withContext
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 class MainViewModel : CoroutineScopedViewModel() {
 
